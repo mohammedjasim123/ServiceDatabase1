@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ServiceDatabase1</string>
+    <string name="email">Enter your Email</string>
+    <string name="password">Enter your Password</string>
+    <string name="confirm">Confirm Password</string>
+    <string name="emailshow">Your email</string>
+</resources>
